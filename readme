@@ -1,0 +1,34 @@
+Interactive Power BI dashboard comparing product performance metrics between 2013 and 2014
+
+📊 Product Dashboard (2014 vs 2013)
+
+This Power BI project presents a comparative sales analysis between Q4 2013 and Q4 2014. The dashboard highlights key performance metrics across products, customer segments, and regions to uncover business growth trends and opportunities.
+
+🔹 Key Insights
+
+Sales Growth: Revenue increased from $26.42M in 2013 to $36.16M in 2014, with corresponding profit growth from $3.88M to $5.44M.
+
+Product Performance: Top-selling products included Paseo, VTT, and Carretera, with Paseo showing significant contribution to total sales.
+
+Regional Analysis: Canada, France, Germany, Mexico, and USA performance tracked with segment-level insights (Government, Small Business, Enterprise, Midmarket, Channel Partner).
+
+Customer Segments: Government and Small Business segments remained dominant revenue contributors.
+
+Discount Trends: Segment-wise and product-wise discount patterns analyzed for both years.
+
+Seasonality: Monthly trends showed spikes in October and December for both years, with 2014 outperforming 2013 in every month.
+
+🔹 Features of the Dashboard
+
+Comparative view of 2013 vs 2014 KPIs (Sales, Profit, Units Sold, Discounts).
+Interactive slicers for product, country, and segment-level drilldowns.
+
+Visual storytelling using bar charts, line graphs, and comparative visuals.
+
+🔹 Tools & Technology
+
+Power BI Desktop
+
+Data modeling with relationships across products, sales, discounts, and regions
+
+DAX measures for KPIs and year-over-year comparisons
